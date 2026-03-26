@@ -1,14 +1,16 @@
 import customtkinter as ctk
-
+import os
 
 class CleanSlateApp:
     def __init__(self):
         ctk.set_appearance_mode("Dark")
 
         self.app = ctk.CTk()
-        self.app.title("Treker Work")
+        self.app.title("Tracker Work")
         self.app.attributes("-fullscreen", True)
         self.app.configure(fg_color="black")  # Черный фон
+        
+        self.app.attributes("-alpha", 0.90)
 
         # Привязка клавиш
         self.app.bind("<F11>", self.toggle_fullscreen)
