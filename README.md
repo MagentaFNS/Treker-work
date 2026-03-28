@@ -53,7 +53,7 @@ pip install customtkinter
 python ### Установка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/EMPTY-PROGRAM/Treker-work.git
+git clone https://github.com/MagentaFNS/Treker-work.git
 
 # Переход в директорию проекта
 cd Treker-work
