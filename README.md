@@ -1,4 +1,4 @@
-# Treker Work - Modern Task Tracker
+# Tracker Work - Modern Task Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-purple.svg)
